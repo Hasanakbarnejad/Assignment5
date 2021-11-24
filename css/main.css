@@ -1,0 +1,40 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+.hasan{
+  text-align: center;
+}
+h3{
+  color: rgb(82, 82, 82);
+}
+h6{
+  color: rgb(170, 170, 170);
+}
+.bi-textarea-resize{
+  color: blue;
+}
+.detail{
+  color: blue;
+}
+body{
+  background-color: rgb(193, 220, 224);
+}
+.background{
+  background-color: white;
+}
+.mamad{
+  border: 2px solid black;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+}
+.d-flex {
+height: 100vh;
+}
